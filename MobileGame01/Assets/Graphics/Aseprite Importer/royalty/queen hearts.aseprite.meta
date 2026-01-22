@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 705e9cca242585c43b88fa5ce1e4bc8a
+guid: 2c78ce47b8f11514c9800fe411ed65ee
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,7 +127,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: ace hearts
+  - name: queen hearts
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -139,7 +139,7 @@ ScriptedImporter:
       y: 4
       width: 160
       height: 256
-    spriteID: 07296de1a35316841ac3b95b5107cfd9
+    spriteID: 01f433923f673e64e9356473492d47b3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,17 +153,17 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 991774054
+      value0: 2931871959
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: ace hearts
+    name: queen hearts
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: ace hearts
+    - name: queen hearts
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -171,7 +171,7 @@ ScriptedImporter:
         y: 0
         width: 160
         height: 256
-      spriteId: 07296de1a35316841ac3b95b5107cfd9
+      spriteId: 01f433923f673e64e9356473492d47b3
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
