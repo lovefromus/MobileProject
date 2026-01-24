@@ -129,7 +129,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Mobile_DeckIcons128x64_HSCD
     originalName: 
-    pivot: {x: 0.5203252, y: 0}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -137,7 +137,7 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 123
+      width: 128
       height: 64
     spriteID: 5b4ad14f612fe1c459e67d957f97cadd
     spriteBone: []
@@ -169,7 +169,7 @@ ScriptedImporter:
       cellRect:
         x: 0
         y: 0
-        width: 123
+        width: 128
         height: 64
       spriteId: 5b4ad14f612fe1c459e67d957f97cadd
     linkedCells: []
